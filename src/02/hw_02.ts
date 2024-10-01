@@ -1,4 +1,4 @@
-type StreetType = {
+export type StreetType = {
   title: string
 };
 
