@@ -5,7 +5,7 @@ test.skip('copy user', () => {
     name: 'Roman',
     hair: 32,
     address: {
-      title: 'Vitebsk'
+      city: 'Vitebsk',
     }
   }
 
